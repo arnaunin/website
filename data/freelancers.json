@@ -394,5 +394,16 @@
       "skills": ["AWS", "Terraform/AWS CDK/Ansible", "Kubernetes", "GitOps", "ArgoCD/Helm", "Github/Gitlab", "Datadog/Grafana", "Python/Node/Go"],
       "availability_hours_week": {"min": 1, "max": 20},
       "pricing_model": "Hourly rate: €80–€120/h, depending on project length"
-   }
+   },
+    {
+        "slack_name": "@Arnau Nin Pérez",
+        "slack_member_id": "U0C32N13L5N",
+        "full_name": "Arnau Nin",
+        "web": "https://arnaunin.netlify.app/",
+        "linkedin_handler": "arnau-nin-perez",
+        "services": "Full-stack web developer. Fast, clean websites and small web apps: landing pages, marketing sites and MVPs, delivered at a fixed price. I also build AI-powered tools and automations, and websites for local businesses (restaurants, shops) with ordering and booking integrations. Catalan, Spanish and English.",
+        "skills": ["Astro", "React", "Django", "Python", "JavaScript", "HTML/CSS", "Bootstrap", "SASS", "WordPress/WooCommerce", "Netlify", "AI automation", "AI-assisted development", "Landing pages", "MVP"],
+        "availability_hours_week": {"min": 2, "max": 40},
+        "pricing_model": "Fixed price | Milestones | Hourly"
+    }
 ]
